@@ -5,10 +5,11 @@ A modern coffee ordering mobile application built with React Native and TypeScri
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/placeholder1" width="180" alt="Home Screen"/>
-  <img src="https://github.com/user-attachments/assets/placeholder2" width="180" alt="Detail Screen"/>
-  <img src="https://github.com/user-attachments/assets/placeholder3" width="180" alt="Cart Screen"/>
-  <img src="https://github.com/user-attachments/assets/placeholder4" width="180" alt="Payment Screen"/>
+  <img src="screenshots/coffee1-portrait.png" width="180" alt="Home Screen"/>
+  <img src="screenshots/coffee2-portrait.png" width="180" alt="Detail Screen"/>
+  <img src="screenshots/coffee3-portrait.png" width="180" alt="Cart Screen"/>
+  <img src="screenshots/coffee4-portrait.png" width="180" alt="Favorites Screen"/>
+  <img src="screenshots/coffee5-portrait.png" width="180" alt="Order History Screen"/>
 </p>
 
 ## Features
