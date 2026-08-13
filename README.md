@@ -8,7 +8,7 @@
 [![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/pmndrs/zustand)
 [![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 
-[✉️ **İletişim & Geri Bildirim**](mailto:emreisikdeveloper@gmail.com) • [💼 **LinkedIn**](https://www.linkedin.com/in/emreisikdeveloper/)
+[✉️ **İletişim & Geri Bildirim**](mailto:emreisikdeveloper@gmail.com)
 
 </div>
 
